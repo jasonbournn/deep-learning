@@ -1,4 +1,15 @@
 
+## Table of Contents
+
+* **[Free Online Books](#free-online-books)**  
+
+* **[Courses](#courses)**  
+
+* **[Videos and Lectures](#videos-and-lectures)**  
+
+* **[Papers](#papers)**  
+
+* **[Tutorials](#tutorials)**  
 
 ### Free Online Books
 * [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
