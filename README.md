@@ -1,4 +1,4 @@
-# Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 ### Free Online Books
 * [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
@@ -28,10 +28,8 @@
 * [Deep Learning - Nvidia](https://developer.nvidia.com/deep-learning-courses) (2015)
 * [Graduate Summer School: Deep Learning, Feature Learning] (https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) by Geoffrey Hinton, Yoshua Bengio, Yann LeCun, Andrew Ng, Nando de Freitas and several others @ IPAM, UCLA (2012)
 * [Deep Learning - Udacity/Google](https://www.udacity.com/course/deep-learning--ud730) by Vincent Vanhoucke and Arpan Chakraborty (2016)
-* [Deep Learning - UWaterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE) by Pr
-*Ali Ghodsi at University of Waterloo (2015)
+* [Deep Learning - UWaterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE) by PrAli Ghodsi at University of Waterloo (2015)
 * [Statistical Machine Learning - CMU](https://www.youtube.com/watch?v=azaLcvuql_g&list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r) by Pr
-*Larry Wasserman
 
 
 ### Videos and Lectures
@@ -51,10 +49,9 @@
 * [Natural Language Processing](http://web.stanford.edu/class/cs224n/handouts/) By Chris Manning in Stanford
 * [A beginners Guide to Deep Neural Networks](http://googleresearch.blogspot.com/2015/09/a-beginners-guide-to-deep-neural.html) By Natalie Hammel and Lorraine Yurshansky
 * [Deep Learning: Intelligence from Big Data](https://www.youtube.com/watch?v=czLI3oLDe8M) by Steve Jurvetson (and panel) at VLAB in Stanfo
-*
+
 
 ### Papers
-*You can also find the most cited deep learning papers from [here](https://github.com/terryum/awesome-deep-learning-papers)*
 * [ImageNet Classification with Deep Convolutional Neural Networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 * [Using Very Deep Autoencoders for Content Based Image Retrieval](http://www.cs.toronto.edu/~hinton/absps/esann-deep-final.pdf)
 * [Learning Deep Architectures for AI](http://www.iro.umontreal.ca/~lisa/pointeurs/TR1312.pdf)
@@ -78,16 +75,14 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 * [Speech Recognition with Deep Recurrent Neural Networks](http://www.cs.toronto.edu/~fritz/absps/RNN13.pdf)
 * [Reinforcement Learning Neural Turing Machines](http://arxiv.org/pdf/1505.00521v1)
 * [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](http://arxiv.org/pdf/1406.1078v3.pdf)
-*[Google - Sequence to Sequence  Learning with Nneural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
-*[Memory Networks](http://arxiv.org/pdf/1410.3916v10)
-*[Policy Learning with Continuous Memory States for Partially Observed Robotic Control](http://arxiv.org/pdf/1507.01273v1)
-*[Microsoft - Jointly Modeling Embedding and Translation to Bridge Video and Language](http://arxiv.org/pdf/1505.01861v1.pdf)
-*[Neural Turing Machines](http://arxiv.org/pdf/1410.5401v2.pdf)
-*[Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](http://arxiv.org/pdf/1506.07285v1.pdf)
-*[Mastering the Game of Go with Deep Neural Networks and Tree Search](http://www.nature.com/nature/journal/v529/n7587/pdf/nature16961.pdf)
-*[Batch Normalization](https://arxiv.org/abs/1502.03167)
-
-
+* [Google - Sequence to Sequence  Learning with Nneural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+* [Memory Networks](http://arxiv.org/pdf/1410.3916v10)
+* [Policy Learning with Continuous Memory States for Partially Observed Robotic Control](http://arxiv.org/pdf/1507.01273v1)
+* [Microsoft - Jointly Modeling Embedding and Translation to Bridge Video and Language](http://arxiv.org/pdf/1505.01861v1.pdf)
+* [Neural Turing Machines](http://arxiv.org/pdf/1410.5401v2.pdf)
+* [Ask Me Anything: Dynamic Memory Networks for Natural Language Processing](http://arxiv.org/pdf/1506.07285v1.pdf)
+* [Mastering the Game of Go with Deep Neural Networks and Tree Search](http://www.nature.com/nature/journal/v529/n7587/pdf/nature16961.pdf)
+* [Batch Normalization](https://arxiv.org/abs/1502.03167)
 
 
 ### Tutorials
@@ -101,8 +96,8 @@ Recognition](http://nlp.stanford.edu/~socherr/pa4_ner.pdf) [zip](http://nlp.stan
 * [Using convolutional neural nets to detect facial keypoints tutorial](http://danielnouri.org/notes/2014/12/17/using-convolutional-neural-nets-to-detect-facial-keypoints-tutorial/)
 * [Torch7 Tutorials](http://code.madbits.com/wiki/doku.php)
 * [The Best Machine Learning Tutorials On The Web] (https://github.com/josephmisiti/machine-learning-module)
-*[VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
-*[TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
-*[More TensorFlow tutorials](https://github.com/pkmital/tensorflow_tutorials)
-*[TensorFlow Python Notebooks](https://github.com/aymericdamien/TensorFlow-Examples)
-*[Keras and Lasagne Deep Learning Tutorials](https://github.com/Vict0rSch/deep_learning)
+* [VGG Convolutional Neural Networks Practical](http://www.robots.ox.ac.uk/~vgg/practicals/cnn/index.html)
+* [TensorFlow tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
+* [More TensorFlow tutorials](https://github.com/pkmital/tensorflow_tutorials)
+* [TensorFlow Python Notebooks](https://github.com/aymericdamien/TensorFlow-Examples)
+* [Keras and Lasagne Deep Learning Tutorials](https://github.com/Vict0rSch/deep_learning)
